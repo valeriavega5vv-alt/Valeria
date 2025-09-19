@@ -1,11 +1,63 @@
-### FLE Francais langue étrangère 
-<img width="759" height="631" alt="image" src="https://github.com/user-attachments/assets/aa4b32bb-59d0-4e47-bb7d-ed6ee7fd51e5" />
-# Bienvenido a mi página sobre FLE
-Este sitio está dedicado a mi aprendizaje y recursos sobre el **Francés como Lengua Extranjera (FLE)**.
-## ¿Qué es el FLE?
-El FLE es la enseñanza del francés a personas cuya lengua materna no es el francés. Aquí comparto materiales, consejos y experiencias para aprender y enseñar francés.
-## Recursos para aprender francés
-- Gramática básica y avanzada
-- Vocabulario temático
-- Ejercicios y prácticas
-- Recomendaciones de libros y apps
+# 🇫🇷 Ressources pour apprendre le français (FLE)
+
+Bienvenue sur ce site dédié à l'apprentissage du **français langue étrangère (FLE)**.  
+Vous trouverez ici des **fiches pédagogiques**, des **guides de grammaire**, du **vocabulaire illustré**, des **vidéos** et bien plus encore !
+
+---
+
+## 📌 Objectifs
+
+- Apprendre les bases du français
+- Pratiquer la grammaire et la conjugaison
+- Enrichir le vocabulaire
+- Améliorer la compréhension orale et écrite
+
+---
+
+## 📚 Catégories de ressources
+
+### 🧠 Grammaire
+- [Les articles définis et indéfinis](ressources/grammaire/les_articles.pdf)
+- [L'accord des adjectifs](#) *(bientôt disponible)*
+
+### 🔤 Conjugaison
+- [Le présent de l’indicatif (verbes réguliers)](ressources/fiches/conjugaison_present.pdf)
+- [Les verbes pronominaux](#)
+
+### 📖 Vocabulaire
+- [Les animaux](ressources/vocabulaire/les_animaux.pdf)
+- [Les couleurs](#)
+
+### 🎧 Compréhension orale
+- [Vidéo : Se présenter en français (débutants)](https://youtu.be/VIDE0ID)
+
+---
+
+## 🧑‍🏫 Pour qui ?
+
+Ce site s'adresse aux :
+- Débutants en français
+- Étudiants en FLE
+- Enseignants cherchant des supports simples
+- Apprenants autodidactes
+
+---
+
+## 📥 Téléchargements
+
+Tous les documents sont en format **PDF**. Cliquez sur les liens ci-dessus pour les télécharger.
+
+> ⚠️ Merci de ne pas redistribuer les documents sans autorisation.
+
+
+
+## 📬 Contact
+
+Pour toute question, suggestion ou collaboration :
+
+📧 *valeriavega5.vv@gmail.com*  
+
+
+
+
+**Bonne étude ! 💪**
