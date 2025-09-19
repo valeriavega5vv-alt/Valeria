@@ -1,77 +1,41 @@
-# Le français à travers la culture
+# 🌐 Bienvenue
 
-Bienvenue ! Ce site est une invitation à découvrir la **langue française** à travers sa **culture**, ses **pays**, sa **musique**, sa **gastronomie** et ses **traditions**.
+Bienvenue sur mon site dédié à la **traduction professionnelle**.
 
-Explorez la **francophonie** et apprenez le français autrement.
+# 👩‍🎓 Valeria Vega Lora
+
+Étudiante en **Master 1 Traduction et Interprétation** à l'Université de Bretagne Occidentale (UBO).
+
+Passionnée par les langues, la communication interculturelle et la transmission du sens à travers la traduction.
+
+🔍 Intérêts :  
+- Traduction littéraire et éditoriale  
+- Interprétation de liaison  
+- Espagnol ⇄ Français | Anglais ⇄ Français
+
+# 🎓 Formation académique
+
+## Master 1 Traduction et Interprétation  
+📍 Université de Bretagne Occidentale – Brest, France  
+🗓️ 2024 – 2025
+
+Modules :
+- Traduction spécialisée (FR ↔️ ES / EN)
+- Techniques d’interprétation
+- Traduction assistée par ordinateur (TAO)
+- Linguistique appliquée à la traduction
 
 ---
 
-## 🌐 Sections principales :
+## Licence en langues étrangères 
+📍 UNIVERSIDAD DEL ATLANTICO - COLOMBIE
+🗓️ 
 
-- 🌍 [La francophonie](francophonie.md)
-- 🎨 [Culture : cinéma, musique, littérature](musique-cinema.md)
-- 🍷 [Gastronomie](gastronomie.md)
-- 🎉 [Traditions & coutumes](traditions.md)
-- 💬 [Expressions typiques](expressions.md)
-- 📥 [Ressources à télécharger](ressources.md)
+📬 Me contacter
 
-# 🌍 Qu'est-ce que la francophonie ?
-
-La **francophonie** désigne l’ensemble des pays et des régions où l’on parle français.
-
-### 🌍 Pays francophones par continent :
-
-- 🇫🇷 France
-- 🇧🇪 Belgique
-- 🇨🇭 Suisse
-- 🇨🇦 Canada (Québec)
-- 🇲🇦 Maroc, 🇹🇳 Tunisie, 🇩🇿 Algérie
-
-- # 🎶 Musique, cinéma et art francophones
-
-## 🎧 Musique francophone
-- Stromae (Belgique)
-- Aya Nakamura (France/Mali)
-- Cœur de Pirate (Québec)
-
-## 🎬 Cinéma
-- Amélie Poulain (France)
-- Les Intouchables
-- La Haine
-- Xavier Dolan (Canada)
-
-## 📚 Littérature
-- Albert Camus, Marguerite Duras, Amélie Nothomb
-
-> Conseil : Créez une playlist francophone et regardez des films en VO !
-# 🍽️ Gastronomie francophone
-
-## 🇫🇷 France
-- Croissants, quiches, fromages, vins
-
-## 🇧🇪 Belgique
-- Gaufres, frites, chocolat
-
-## 🇨🇦 Québec
-- Poutine, sirop d’érable
-
-## 🇲🇦 Maroc
-- Couscous, tajine, thé à la menthe
-
-📌 *Manger, c’est aussi parler : apprenez le vocabulaire autour de la table !*
-# 💬 Expressions typiques en français
-
-## 🇫🇷 France
-- “J’ai la flemme” = Je n’ai pas envie
-- “C’est pas terrible” = Ce n’est pas très bon
-
-## 🇨🇦 Québec
-- “C’est le fun !” = C’est amusant
-- “Magasiner” = Faire du shopping
-
-## 🇧🇪 Belgique
-- “Une drache” = Une grosse pluie
-- “Savoir” = Pouvoir (“Je ne sais pas venir” = Je ne peux pas venir)
-- 🇸🇳 Sénégal, 🇨🇮 Côte d’Ivoire, 🇲🇱 Mali, etc.
-
-> Plus de **300 millions** de personnes parlent français dans le monde !
+📧 Email : valeriavega5.vv@gmail.com  
+🔗 LinkedIn : [linkedin.com/in/valeriavega](https://linkedin.com/in/valeria-vega-lora-)   
+📍 Basée à : Brest, France
+- Techniques d’interprétation
+- Traduction assistée par ordinateur (TAO)
+- Linguistique appliquée à la traduction
