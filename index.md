@@ -2,6 +2,9 @@
 
 Bienvenue sur mon site dédié à la **traduction professionnelle**.
 
+<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/699b60f1-b198-4b31-84ad-86a7a2450e4d" />
+
+
 # 👩‍🎓 Valeria Vega Lora
 
 Étudiante en **Master 1 Traduction et Interprétation** à l'Université de Bretagne Occidentale (UBO).
