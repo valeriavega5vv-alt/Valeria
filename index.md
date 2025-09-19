@@ -39,6 +39,5 @@ Modules :
 📧 Email : valeriavega5.vv@gmail.com  
 🔗 LinkedIn : [linkedin.com/in/valeriavega](https://linkedin.com/in/valeria-vega-lora-)   
 📍 Basée à : Brest, France
-- Techniques d’interprétation
 - Traduction assistée par ordinateur (TAO)
 - Linguistique appliquée à la traduction
