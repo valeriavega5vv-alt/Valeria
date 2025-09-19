@@ -1,64 +1,77 @@
-# Ressources pour apprendre le français (FLE)
+# Le français à travers la culture
 
-Bienvenue sur ce site dédié à l'apprentissage du **français langue étrangère (FLE)**.  
-Vous trouverez ici des **fiches pédagogiques**, des **guides de grammaire**, du **vocabulaire illustré**, des **vidéos** et bien plus encore !
-<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/2b6726d3-104b-42bc-a5c6-c68acbbd3320" />
+Bienvenue ! Ce site est une invitation à découvrir la **langue française** à travers sa **culture**, ses **pays**, sa **musique**, sa **gastronomie** et ses **traditions**.
 
----
-
-## 📌 Objectifs
-
-- Apprendre les bases du français
-- Pratiquer la grammaire et la conjugaison
-- Enrichir le vocabulaire
-- Améliorer la compréhension orale et écrite
+Explorez la **francophonie** et apprenez le français autrement.
 
 ---
 
-## 📚 Catégories de ressources
+## 🌐 Sections principales :
 
-### 🧠 Grammaire
-- [Les articles définis et indéfinis](ressources/grammaire/les_articles.pdf)
-- [L'accord des adjectifs](#) *(bientôt disponible)*
+- 🌍 [La francophonie](francophonie.md)
+- 🎨 [Culture : cinéma, musique, littérature](musique-cinema.md)
+- 🍷 [Gastronomie](gastronomie.md)
+- 🎉 [Traditions & coutumes](traditions.md)
+- 💬 [Expressions typiques](expressions.md)
+- 📥 [Ressources à télécharger](ressources.md)
 
-### 🔤 Conjugaison
-- [Le présent de l’indicatif (verbes réguliers)](ressources/fiches/conjugaison_present.pdf)
-- [Les verbes pronominaux](#)
+# 🌍 Qu'est-ce que la francophonie ?
 
-### 📖 Vocabulaire
-- [Les animaux](ressources/vocabulaire/les_animaux.pdf)
-- [Les couleurs](#)
+La **francophonie** désigne l’ensemble des pays et des régions où l’on parle français.
 
-### 🎧 Compréhension orale
-- [Vidéo : Se présenter en français (débutants)](https://youtu.be/VIDE0ID)
+### 🌍 Pays francophones par continent :
 
----
+- 🇫🇷 France
+- 🇧🇪 Belgique
+- 🇨🇭 Suisse
+- 🇨🇦 Canada (Québec)
+- 🇲🇦 Maroc, 🇹🇳 Tunisie, 🇩🇿 Algérie
 
-## 🧑‍🏫 Pour qui ?
+- # 🎶 Musique, cinéma et art francophones
 
-Ce site s'adresse aux :
-- Débutants en français
-- Étudiants en FLE
-- Enseignants cherchant des supports simples
-- Apprenants autodidactes
+## 🎧 Musique francophone
+- Stromae (Belgique)
+- Aya Nakamura (France/Mali)
+- Cœur de Pirate (Québec)
 
----
+## 🎬 Cinéma
+- Amélie Poulain (France)
+- Les Intouchables
+- La Haine
+- Xavier Dolan (Canada)
 
-## 📥 Téléchargements
+## 📚 Littérature
+- Albert Camus, Marguerite Duras, Amélie Nothomb
 
-Tous les documents sont en format **PDF**. Cliquez sur les liens ci-dessus pour les télécharger.
+> Conseil : Créez une playlist francophone et regardez des films en VO !
+# 🍽️ Gastronomie francophone
 
+## 🇫🇷 France
+- Croissants, quiches, fromages, vins
 
+## 🇧🇪 Belgique
+- Gaufres, frites, chocolat
 
+## 🇨🇦 Québec
+- Poutine, sirop d’érable
 
+## 🇲🇦 Maroc
+- Couscous, tajine, thé à la menthe
 
-## 📬 Contact
+📌 *Manger, c’est aussi parler : apprenez le vocabulaire autour de la table !*
+# 💬 Expressions typiques en français
 
-Pour toute question, suggestion ou collaboration :
+## 🇫🇷 France
+- “J’ai la flemme” = Je n’ai pas envie
+- “C’est pas terrible” = Ce n’est pas très bon
 
-📧 *valeriavega5.vv@gmail.com*  
+## 🇨🇦 Québec
+- “C’est le fun !” = C’est amusant
+- “Magasiner” = Faire du shopping
 
+## 🇧🇪 Belgique
+- “Une drache” = Une grosse pluie
+- “Savoir” = Pouvoir (“Je ne sais pas venir” = Je ne peux pas venir)
+- 🇸🇳 Sénégal, 🇨🇮 Côte d’Ivoire, 🇲🇱 Mali, etc.
 
-
-
-**Bonne étude ! 💪**
+> Plus de **300 millions** de personnes parlent français dans le monde !
