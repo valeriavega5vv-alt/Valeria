@@ -1,4 +1,4 @@
-# 🇫🇷 Ressources pour apprendre le français (FLE)
+# Ressources pour apprendre le français (FLE)
 
 Bienvenue sur ce site dédié à l'apprentissage du **français langue étrangère (FLE)**.  
 Vous trouverez ici des **fiches pédagogiques**, des **guides de grammaire**, du **vocabulaire illustré**, des **vidéos** et bien plus encore !
@@ -48,7 +48,7 @@ Ce site s'adresse aux :
 
 Tous les documents sont en format **PDF**. Cliquez sur les liens ci-dessus pour les télécharger.
 
-> ⚠️ Merci de ne pas redistribuer les documents sans autorisation.
+
 
 
 
