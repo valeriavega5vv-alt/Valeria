@@ -1,8 +1,8 @@
 # 🌐 Bienvenue
 
 Bienvenue sur mon site dédié à la **traduction professionnelle**.
+<img width="1310" height="940" alt="image" src="https://github.com/user-attachments/assets/6a848693-4d17-499a-97f7-4fd72b801a1b" />
 
-<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/699b60f1-b198-4b31-84ad-86a7a2450e4d" />
 
 
 # 👩‍🎓 Valeria Vega Lora
@@ -39,5 +39,3 @@ Modules :
 📧 Email : valeriavega5.vv@gmail.com  
 🔗 LinkedIn : [linkedin.com/in/valeriavega](https://linkedin.com/in/valeria-vega-lora-)   
 📍 Basée à : Brest, France
-- Traduction assistée par ordinateur (TAO)
-- Linguistique appliquée à la traduction
