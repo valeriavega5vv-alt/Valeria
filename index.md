@@ -2,6 +2,7 @@
 
 Bienvenue sur ce site dédié à l'apprentissage du **français langue étrangère (FLE)**.  
 Vous trouverez ici des **fiches pédagogiques**, des **guides de grammaire**, du **vocabulaire illustré**, des **vidéos** et bien plus encore !
+<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/2b6726d3-104b-42bc-a5c6-c68acbbd3320" />
 
 ---
 
