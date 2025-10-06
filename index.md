@@ -2,7 +2,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Valeria Vega Lora – Traductrice & Interprète</title>
+<title> VVL Traducciones – Traductrice & Interprète</title>
 <style>
   :root {
     --sidebar-w: 280px;
