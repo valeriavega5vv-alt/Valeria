@@ -1,3 +1,4 @@
+<!doctype html>
 <html lang="fr">
 <head>
 <meta charset="utf-8">
@@ -137,19 +138,9 @@
   .sub { color: var(--muted); margin-top: 0; }
   .underline { height: 4px; width: 120px; border-radius: 999px; background: var(--gradient-line); margin: 8px 0 12px 0; }
 
-  .grid { display: grid; gap: 18px; }
-  .cols-2 { grid-template-columns: 1fr 1fr; }
-  @media (max-width: 980px) { .content { margin-left: 0; padding-top: 72px; } .cols-2 { grid-template-columns: 1fr; } }
-
   ul { margin: 0; padding-left: 18px; }
   li { margin: 6px 0; }
   .check li::marker { content: "✔ "; color: var(--ok); font-weight: 700; }
-
-  /* KPIs */
-  .kpis { display: grid; gap: 14px; grid-template-columns: repeat(3,1fr); }
-  .kpi { text-align: center; padding: 16px; border: 1px solid var(--border); border-radius: 14px;
-         background: linear-gradient(180deg, transparent, rgba(255,255,255,.04)); }
-  .kpi b { display: block; font-size: 22px; color: var(--accent); }
 
   /* Timeline formation */
   .timeline { position: relative; padding-left: 22px; }
@@ -201,7 +192,6 @@
     <a href="#domaines"><span class="dot-li"></span> Domaines</a>
     <a href="#methode"><span class="dot-li"></span> Méthode</a>
     <a href="#importance"><span class="dot-li"></span> Importance</a>
-    <a href="#temoignages"><span class="dot-li"></span> Témoignages</a>
     <a href="#formation"><span class="dot-li"></span> Formation</a>
     <a href="#contact"><span class="dot-li"></span> Contact</a>
   </nav>
@@ -222,32 +212,8 @@
       <div class="underline"></div>
       <p class="sub">Traductrice & future interprète — Espagnol · Français · Anglais</p>
     </header>
-    <div class="grid cols-2">
-      <div>
-        <p>Bonjour, je m’appelle <strong>Valeria Vega Lora</strong>. Je suis licenciée en langues étrangères de l’Université de l’Atlantique (Colombie) et actuellement étudiante en <strong>Master 1 Traduction & Interprétation</strong> à l’Université de Bretagne Occidentale (France).</p>
-        <p>Je transforme des textes et des messages en passerelles claires et naturelles entre cultures. Mon objectif : une communication sans friction, fidèle au sens et adaptée au lectorat.</p>
-        <div class="kpis" style="margin-top:10px">
-          <div class="kpi"><b>3</b> langues de travail</div>
-          <div class="kpi"><b>ES · FR · EN</b> combinaisons</div>
-          <div class="kpi"><b>Qualité</b> & confidentialité</div>
-        </div>
-      </div>
-      <div>
-        <div class="section" style="margin:0">
-          <header><h2 style="font-size:18px;margin:0;color:var(--accent)">Services express</h2></header>
-          <div class="underline" style="width:80px"></div>
-          <ul class="check" style="margin-top:6px">
-            <li>Traduction générale & spécialisée</li>
-            <li>Révision et correction stylistique</li>
-            <li>Localisation & communication interculturelle</li>
-          </ul>
-          <div style="margin-top:12px">
-            <a class="btn" href="#competences">Voir compétences</a>
-            <a class="btn primary" href="#contact">Me contacter</a>
-          </div>
-        </div>
-      </div>
-    </div>
+    <p>Bonjour, je m’appelle <strong>Valeria Vega Lora</strong>. Je suis licenciée en langues étrangères de l’Université de l’Atlantique (Colombie) et actuellement étudiante en <strong>Master 1 Traduction & Interprétation</strong> à l’Université de Bretagne Occidentale (France).</p>
+    <p>Je transforme des textes et des messages en passerelles claires et naturelles entre cultures. Mon objectif : une communication sans friction, fidèle au sens et adaptée au lectorat.</p>
   </section>
 
   <!-- PROFIL -->
@@ -265,24 +231,14 @@
       <h2>Compétences</h2>
       <div class="underline"></div>
     </header>
-    <div class="grid cols-2">
-      <div>
-        <ul class="check">
-          <li>Traduction ES ⇄ FR ⇄ EN (général & spécialisé)</li>
-          <li>Révision, correction et adaptation stylistique</li>
-          <li>Pré-traitement & post-édition (outils TAO)</li>
-          <li>Recherche terminologique & mémoires de traduction</li>
-        </ul>
-      </div>
-      <div>
-        <ul class="check">
-          <li>Gestion de glossaires multilingues</li>
-          <li>Localisation & communication interculturelle</li>
-          <li>Respect du brief, des délais & confidentialité</li>
-          <li>Coordination avec équipes éditoriales & techniques</li>
-        </ul>
-      </div>
-    </div>
+    <ul class="check">
+      <li>Traduction ES ⇄ FR ⇄ EN (général & spécialisé)</li>
+      <li>Révision, correction et adaptation stylistique</li>
+      <li>Pré-traitement & post-édition (outils TAO)</li>
+      <li>Recherche terminologique & mémoires de traduction</li>
+      <li>Localisation & communication interculturelle</li>
+      <li>Respect des délais & confidentialité</li>
+    </ul>
   </section>
 
   <!-- DOMAINES -->
@@ -291,22 +247,13 @@
       <h2>Domaines de spécialité</h2>
       <div class="underline"></div>
     </header>
-    <div class="grid cols-2">
-      <div>
-        <ul class="check">
-          <li>Académique & éducation</li>
-          <li>Affaires & communication institutionnelle</li>
-          <li>Culture, tourisme & patrimoine</li>
-        </ul>
-      </div>
-      <div>
-        <ul class="check">
-          <li>Marketing & réseaux sociaux</li>
-          <li>Humanités & sciences sociales</li>
-          <li>Traduction générale de qualité</li>
-        </ul>
-      </div>
-    </div>
+    <ul class="check">
+      <li>Académique & éducation</li>
+      <li>Affaires & communication institutionnelle</li>
+      <li>Culture, tourisme & patrimoine</li>
+      <li>Marketing & réseaux sociaux</li>
+      <li>Humanités & sciences sociales</li>
+    </ul>
   </section>
 
   <!-- MÉTHODE -->
@@ -333,36 +280,6 @@
     <p>Une traduction professionnelle garantit pertinence, naturel et impact — conditions essentielles pour éduquer, convaincre, vendre ou coopérer à l’international.</p>
   </section>
 
-  <!-- TÉMOIGNAGES -->
-  <section id="temoignages" class="section">
-    <header>
-      <h2>Témoignages</h2>
-      <div class="underline"></div>
-    </header>
-    <div class="grid cols-2">
-      <div class="section" style="margin:0">
-        <p class="sub">Entreprise — Communication institutionnelle</p>
-        <p>« Travail impeccable, respect des délais et style parfaitement adapté à notre public francophone. »</p>
-        <p><strong>— M. Dupont</strong>, Responsable communication</p>
-      </div>
-      <div class="section" style="margin:0">
-        <p class="sub">Université — Article académique</p>
-        <p>« La précision terminologique et la clarté du texte ont grandement facilité la publication. »</p>
-        <p><strong>— Dr. Martin</strong>, Chercheur en sciences sociales</p>
-      </div>
-      <div class="section" style="margin:0">
-        <p class="sub">Culture & Tourisme</p>
-        <p>« Traductions fluides et naturelles, idéales pour nos supports multilingues. »</p>
-        <p><strong>— A. Leroy</strong>, Directrice de projet</p>
-      </div>
-      <div class="section" style="margin:0">
-        <p class="sub">Réseaux sociaux</p>
-        <p>« Ton juste et cohérent avec notre marque, résultats au-delà des attentes. »</p>
-        <p><strong>— C. Bernard</strong>, Social Media Manager</p>
-      </div>
-    </div>
-  </section>
-
   <!-- FORMATION -->
   <section id="formation" class="section">
     <header>
@@ -379,7 +296,7 @@
     </div>
   </section>
 
-  <!-- CONTACT (Formspree) -->
+  <!-- CONTACT -->
   <section id="contact" class="section">
     <header>
       <h2>Contact</h2>
@@ -416,19 +333,16 @@
         <span class="notice">En cliquant sur “Envoyer”, vous acceptez que je vous réponde par e-mail.</span>
       </div>
 
-      <div class="alert ok" id="okBox">Merci ! Votre message a été envoyé.</div>
-      <div class="alert err" id="errBox">Désolé, l’envoi a échoué. Veuillez réessayer.</div>
+      <div class="alert ok" id="successMsg">✅ Message envoyé avec succès !</div>
+      <div class="alert err" id="failMsg">❌ Échec de l’envoi. Veuillez réessayer.</div>
     </form>
-
-    <p style="margin-top:14px">📧 Ou écrivez-moi directement : <a href="mailto:valeriavega5.vv@gmail.com">valeriavega5.vv@gmail.com</a></p>
-    <p>🔗 LinkedIn : <a target="_blank" href="https://www.linkedin.com/in/valeria-vega-lora-">www.linkedin.com/in/valeria-vega-lora-</a></p>
   </section>
 
   <footer>© 2025 Valeria Vega Lora — Tous droits réservés</footer>
 </main>
 
 <script>
-  // ----- Nav actif au scroll -----
+  // Nav actif
   const links = [...document.querySelectorAll('.sidenav nav a')];
   const map = new Map(links.map(a => [a.getAttribute('href'), a]));
   const io = new IntersectionObserver((entries)=>{
@@ -443,7 +357,7 @@
   document.querySelectorAll('main .section[id]').forEach(s=>io.observe(s));
   links.forEach(a=>a.addEventListener('click', ()=>document.body.classList.remove('menu-open')));
 
-  // ----- Toggle mode clair/sombre avec mémoire -----
+  // Toggle mode clair/sombre
   const btnMode = document.getElementById('toggle-mode');
   const key = 'pref-theme';
   const saved = localStorage.getItem(key);
@@ -452,62 +366,29 @@
     document.body.classList.toggle('dark');
     localStorage.setItem(key, document.body.classList.contains('dark') ? 'dark' : 'light');
   });
+
+  // Menu mobile
   document.querySelector('.menu-toggle')
     .addEventListener('click', ()=>document.body.classList.toggle('menu-open'));
 
-  // ----- Formulaire: validation + envoi via Formspree -----
-  const form = document.getElementById('contactForm');
-  const okBox = document.getElementById('okBox');
-  const errBox = document.getElementById('errBox');
-  const sendBtn = document.getElementById('sendBtn');
-
-  function show(el, yes){ el.style.display = yes ? 'block' : 'none'; }
-
-  function validate(){
-    let ok = true;
-    const name = document.getElementById('name');
-    const email = document.getElementById('email');
-    const subject = document.getElementById('subject');
-    const message = document.getElementById('message');
-
-    show(document.getElementById('err-name'), !name.value.trim() && (ok=false));
-    const emailOk = /^[^\\s@]+@[^\\s@]+\\.[^\\s@]+$/.test(email.value);
-    show(document.getElementById('err-email'), !emailOk && (ok=false));
-    show(document.getElementById('err-subject'), !subject.value.trim() && (ok=false));
-    show(document.getElementById('err-message'), !message.value.trim() && (ok=false));
-    return ok;
-  }
-
-  form.addEventListener('submit', async (e)=>{
+  // Validation formulaire
+  const form=document.getElementById('contactForm');
+  const ok=document.getElementById('successMsg'), fail=document.getElementById('failMsg');
+  form.addEventListener('submit',e=>{
     e.preventDefault();
-    show(okBox,false); show(errBox,false);
-    if(!validate()) return;
-
-    sendBtn.disabled = true; sendBtn.textContent = 'Envoi…';
-
-    try{
-      // 🔁 REMPLACE ce endpoint par le tien : https://formspree.io/f/xxxxxxx
-      const FORMSPREE_ENDPOINT = 'https://formspree.io/f/xxxxxxxx';
-      const data = {
-        name: form.name.value,
-        email: form.email.value,
-        subject: form.subject.value,
-        message: form.message.value,
-      };
-      const res = await fetch(FORMSPREE_ENDPOINT, {
-        method:'POST',
-        headers:{ 'Accept': 'application/json', 'Content-Type':'application/json' },
-        body: JSON.stringify(data)
-      });
-      if(res.ok){
-        form.reset(); show(okBox,true);
-      }else{
-        show(errBox,true);
-      }
-    }catch{
-      show(errBox,true);
-    }finally{
-      sendBtn.disabled = false; sendBtn.textContent = 'Envoyer';
+    let valid=true;
+    ['name','email','subject','message'].forEach(id=>{
+      const input=document.getElementById(id);
+      const err=document.getElementById('err-'+id);
+      if(!input.value.trim() || (id==='email' && !/.+@.+\..+/.test(input.value))){
+        err.style.display='block'; valid=false;
+      } else err.style.display='none';
+    });
+    if(valid){
+      ok.style.display='block'; fail.style.display='none';
+      form.reset();
+    } else {
+      ok.style.display='none'; fail.style.display='block';
     }
   });
 </script>
