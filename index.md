@@ -66,6 +66,7 @@
     <a href="#accueil">Accueil</a>
     <a href="#profil">Profil</a>
     <a href="#formation">Formation</a>
+    <a href="#importance">Importance</a>
     <a href="#contact">Contact</a>
   </nav>
 </header>
@@ -90,6 +91,13 @@
       <li><strong>Licence en Langues Étrangères</strong> – Université de l’Atlantique, Colombie</li>
       <li><strong>Master 1 Traduction et Interprétation</strong> – Université de Bretagne Occidentale, France</li>
     </ul>
+  </section>
+
+  <!-- Section importance -->
+  <section id="importance">
+    <h2>Importance de la traduction</h2>
+    <p>La traduction joue un rôle essentiel dans un monde de plus en plus globalisé. Elle permet aux individus, aux entreprises et aux institutions de communiquer efficacement au-delà des frontières linguistiques et culturelles. Grâce à la traduction, les idées circulent librement, les connaissances deviennent accessibles et les relations internationales se renforcent.</p>
+    <p>Au-delà des mots, traduire signifie transmettre une culture, un contexte et une vision du monde. C’est un pont indispensable pour favoriser la compréhension mutuelle et encourager la coopération entre les peuples.</p>
   </section>
 
   <!-- Section contact -->
