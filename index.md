@@ -289,6 +289,34 @@
     if(good){ form.reset(); show(ok,true); } else { show(fail,true); }
   });
 </script>
+<div class="actions">
+  <button class="btn" id="toggle-mode" type="button">🌗 Mode clair / sombre</button>
+</div>
+<script>
+  const btnMode = document.getElementById('toggle-mode');
+  const key = 'pref-theme';
+  const saved = localStorage.getItem(key);
+
+  // Cargar la preferencia guardada
+  if (saved === 'dark') {
+    document.body.classList.add('dark');
+  }
+
+  // Alternar entre claro/oscuro
+  btnMode.addEventListener('click', () => {
+    document.body.classList.toggle('dark');
+    localStorage.setItem(key, document.body.classList.contains('dark') ? 'dark' : 'light');
+  });
+</script>
+/* Paleta modo oscuro */
+body.dark {
+  --bg: #0b1220;
+  --text: #e5e7eb;
+  --muted: #93a4c0;
+  --border: #1d2a45;
+  --accent: #60a5fa;
+  --card: #0f1b33;
+}
 
 </body>
 </html>
