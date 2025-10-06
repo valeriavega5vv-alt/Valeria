@@ -1,7 +1,4 @@
-<div style="text-align:center; margin:20px 0;">
-  <img src="https://github.com/user-attachments/assets/8fa31692-eafd-4c5d-bb58-c80435ddddfa" 
-       alt="Valeria Vega Lora"
-       style="width:150px; height:auto; border-radius:12px;">
+<!doctype html>
 <html lang="fr">
 <head>
 <meta charset="utf-8">
@@ -34,6 +31,7 @@
   body{margin:0;font:16px/1.65 Inter,system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;color:var(--text);background:var(--bg-accent),var(--bg);background-attachment:fixed}
   *,*::before,*::after{box-sizing:border-box}
 
+  /* Sidebar */
   .sidenav{position:fixed;inset:0 auto 0 0;width:var(--sidebar-w);display:flex;flex-direction:column;gap:18px;padding:22px 18px;background:var(--card);border-right:1px solid var(--border);backdrop-filter:var(--glass);box-shadow:var(--shadow);z-index:1000}
   .brand{display:flex;align-items:center;gap:10px;font-weight:800;font-size:18px}
   .brand .dot{width:12px;height:12px;border-radius:999px;background:conic-gradient(from 0deg,var(--accent),#94a3b8,var(--accent));box-shadow:0 0 12px var(--accent);animation:spin 6s linear infinite}
@@ -45,6 +43,7 @@
   nav a .dot-li{width:6px;height:6px;border-radius:999px;background:var(--accent);opacity:.65}
   .divider{height:1px;background:var(--border);margin:6px 0 2px}
 
+  /* Acciones laterales */
   .actions{margin-top:auto;display:grid;gap:10px}
   .btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;padding:10px 12px;border-radius:12px;cursor:pointer;border:1px solid var(--border);background:transparent;color:var(--text);font-weight:700;text-decoration:none}
   .btn:hover{background:var(--hover)}
@@ -53,6 +52,7 @@
 
   .menu-toggle{position:fixed;top:14px;left:14px;z-index:1100;display:none;background:var(--card);border:1px solid var(--border);color:var(--text);border-radius:12px;padding:10px 12px;font-weight:800;backdrop-filter:var(--glass)}
 
+  /* Contenido */
   .content{margin-left:var(--sidebar-w);padding:34px 26px 60px;max-width:1100px}
   .section{background:var(--card);border:1px solid var(--border);border-radius:18px;padding:26px;margin:26px 0 34px;box-shadow:var(--shadow);scroll-margin-top:18px;position:relative;overflow:hidden}
   .section::after{content:"";position:absolute;inset:-30% -30% auto auto;width:300px;height:300px;background:radial-gradient(120px 120px at 70% 30%,var(--active),transparent 60%);opacity:.25;pointer-events:none;transform:rotate(25deg)}
@@ -63,11 +63,13 @@
   ul{margin:0;padding-left:18px} li{margin:6px 0}
   .check li::marker{content:"✔ ";color:var(--ok);font-weight:700}
 
+  /* Timeline */
   .timeline{position:relative;padding-left:22px}
   .timeline::before{content:"";position:absolute;left:9px;top:2px;bottom:2px;width:2px;background:linear-gradient(var(--accent),transparent);border-radius:999px}
   .tl-item{position:relative;margin:12px 0}
   .tl-item::before{content:"";position:absolute;left:-2px;top:6px;width:10px;height:10px;border-radius:999px;background:var(--accent);box-shadow:0 0 0 4px var(--active)}
 
+  /* Formulario */
   .field{display:grid;gap:6px;margin:10px 0}
   label{font-weight:600;color:var(--text)}
   .input,textarea{background:var(--input-bg);border:1px solid var(--input-b);color:var(--input-t);border-radius:12px;padding:12px 14px;outline:none}
@@ -82,6 +84,7 @@
 
   footer{color:var(--muted);text-align:center;padding:30px 0 60px}
 
+  /* Responsive */
   @media (max-width:980px){
     .sidenav{transform:translateX(-100%);transition:.25s ease}
     body.menu-open .sidenav{transform:translateX(0)}
@@ -117,17 +120,32 @@
 </aside>
 
 <main class="content">
+  <!-- ACCUEIL -->
   <section id="accueil" class="section">
-    <header><h2>Bienvenue</h2><div class="underline"></div><p class="sub">Traductrice & future interprète — Espagnol · Français · Anglais</p></header>
+    <header>
+      <h2>Bienvenue</h2>
+      <div class="underline"></div>
+      <p class="sub">Traductrice & future interprète — Espagnol · Français · Anglais</p>
+    </header>
+
+    <!-- Imagen centrada y pequeña -->
+    <div style="text-align:center; margin:20px 0;">
+      <img src="https://github.com/user-attachments/assets/8fa31692-eafd-4c5d-bb58-c80435ddddfa"
+           alt="Valeria Vega Lora"
+           style="width:150px; height:auto; border-radius:12px;">
+    </div>
+
     <p>Bonjour, je m’appelle <strong>Valeria Vega Lora</strong>. Je suis licenciée en langues étrangères de l’Université de l’Atlantique (Colombie) et actuellement étudiante en <strong>Master 1 Traduction & Interprétation</strong> à l’Université de Bretagne Occidentale (France).</p>
     <p>Je transforme des textes et des messages en passerelles claires et naturelles entre cultures. Mon objectif : une communication sans friction, fidèle au sens et adaptée au lectorat.</p>
   </section>
 
+  <!-- PROFIL -->
   <section id="profil" class="section">
     <header><h2>Profil</h2><div class="underline"></div></header>
     <p>Traductrice et future interprète, je travaille avec trois langues principales : <strong>espagnol</strong>, <strong>français</strong> et <strong>anglais</strong>. Mon approche est centrée sur la rigueur terminologique, la cohérence stylistique et l’adaptation culturelle afin d’assurer des textes fluides, crédibles et efficaces.</p>
   </section>
 
+  <!-- COMPÉTENCES -->
   <section id="competences" class="section">
     <header><h2>Compétences</h2><div class="underline"></div></header>
     <ul class="check">
@@ -140,6 +158,7 @@
     </ul>
   </section>
 
+  <!-- DOMAINES -->
   <section id="domaines" class="section">
     <header><h2>Domaines de spécialité</h2><div class="underline"></div></header>
     <ul class="check">
@@ -151,6 +170,7 @@
     </ul>
   </section>
 
+  <!-- MÉTHODE -->
   <section id="methode" class="section">
     <header><h2>Méthode de travail</h2><div class="underline"></div></header>
     <ol>
@@ -161,12 +181,14 @@
     </ol>
   </section>
 
+  <!-- IMPORTANCE -->
   <section id="importance" class="section">
     <header><h2>Importance de la traduction</h2><div class="underline"></div></header>
     <p>La traduction est un levier stratégique : elle rend l’information accessible, fait circuler les idées et renforce la confiance entre acteurs d’horizons différents. Au-delà des mots, elle transmet des références culturelles et des nuances indispensables pour être compris sans ambiguïté.</p>
     <p>Une traduction professionnelle garantit pertinence, naturel et impact — conditions essentielles pour éduquer, convaincre, vendre ou coopérer à l’international.</p>
   </section>
 
+  <!-- FORMATION -->
   <section id="formation" class="section">
     <header><h2>Formation académique</h2><div class="underline"></div></header>
     <div class="timeline">
@@ -186,7 +208,7 @@
       <p>🔗 <a class="btn" target="_blank" href="https://www.linkedin.com/in/valeria-vega-lora-">www.linkedin.com/in/valeria-vega-lora-</a></p>
     </div>
 
-    <!-- Formulario (Formspree) -->
+    <!-- Formulario (listo para conectar a Formspree si quieres) -->
     <form id="contactForm" novalidate>
       <div class="field">
         <label for="name">Nom complet</label>
@@ -221,7 +243,7 @@
 </main>
 
 <script>
-  // Nav actif
+  // Nav activo
   const links=[...document.querySelectorAll('.sidenav nav a')];
   const map=new Map(links.map(a=>[a.getAttribute('href'),a]));
   const io=new IntersectionObserver((entries)=>{
@@ -248,57 +270,24 @@
   // Menú móvil
   document.querySelector('.menu-toggle').addEventListener('click',()=>document.body.classList.toggle('menu-open'));
 
-  // -------- Formulario: validación + envío vía Formspree --------
+  // Formulario (demo local). Si quieres Formspree, dime tu endpoint y lo conecto.
   const form=document.getElementById('contactForm');
   const ok=document.getElementById('successMsg');
   const fail=document.getElementById('failMsg');
   const sendBtn=document.getElementById('sendBtn');
-
-  // 🔁 Pega aquí tu endpoint real de Formspree (p.ej. https://formspree.io/f/abcd1234)
-  const FORMSPREE_ENDPOINT = 'https://formspree.io/f/movklrno';
-
-  function show(el, yes){ el.style.display = yes ? 'block' : 'none'; }
-  function validEmail(v){ return /^[^\\s@]+@[^\\s@]+\\.[^\\s@]+$/.test(v); }
-
-  form.addEventListener('submit', async (e)=>{
+  function show(el,b){el.style.display=b?'block':'none'}
+  function validEmail(v){return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(v)}
+  form.addEventListener('submit',e=>{
     e.preventDefault();
     show(ok,false); show(fail,false);
-
-    // Validación
     let good=true;
-    const fields=['name','email','subject','message'];
-    fields.forEach(id=>{
-      const input=document.getElementById(id);
-      const err=document.getElementById('err-'+id);
-      const isOk = id==='email' ? validEmail(input.value) : !!input.value.trim();
-      err.style.display = isOk ? 'none' : 'block';
-      if(!isOk) good=false;
+    ['name','email','subject','message'].forEach(id=>{
+      const input=document.getElementById(id), err=document.getElementById('err-'+id);
+      const okField = id==='email' ? validEmail(input.value) : !!input.value.trim();
+      err.style.display = okField ? 'none' : 'block';
+      if(!okField) good=false;
     });
-    if(!good) return;
-
-    // Envío
-    sendBtn.disabled=true; sendBtn.textContent='Envoi…';
-    try{
-      const res=await fetch(FORMSPREE_ENDPOINT,{
-        method:'POST',
-        headers:{'Accept':'application/json','Content-Type':'application/json'},
-        body:JSON.stringify({
-          name:form.name.value,
-          email:form.email.value,
-          subject:form.subject.value,
-          message:form.message.value
-        })
-      });
-      if(res.ok){
-        form.reset(); show(ok,true);
-      }else{
-        show(fail,true);
-      }
-    }catch(err){
-      show(fail,true);
-    }finally{
-      sendBtn.disabled=false; sendBtn.textContent='Envoyer';
-    }
+    if(good){ form.reset(); show(ok,true); } else { show(fail,true); }
   });
 </script>
 
