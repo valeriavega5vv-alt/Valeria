@@ -251,7 +251,7 @@
   const sendBtn=document.getElementById('sendBtn');
 
   // 🔁 Pega aquí tu endpoint real de Formspree (p.ej. https://formspree.io/f/abcd1234)
-  const FORMSPREE_ENDPOINT = 'https://formspree.io/f/XXXXXXXX';
+  const FORMSPREE_ENDPOINT = 'https://formspree.io/f/movklrno';
 
   function show(el, yes){ el.style.display = yes ? 'block' : 'none'; }
   function validEmail(v){ return /^[^\\s@]+@[^\\s@]+\\.[^\\s@]+$/.test(v); }
