@@ -1,3 +1,4 @@
+<img width="1393" height="980" alt="image" src="https://github.com/user-attachments/assets/8fa31692-eafd-4c5d-bb58-c80435ddddfa" />
 <html lang="fr">
 <head>
 <meta charset="utf-8">
