@@ -131,14 +131,19 @@
   </section>
 
   <!-- COMPÉTENCES -->
-  <section id="competences" class="section">
-    <h2>Compétences</h2>
-    <ul>
-      <li>Traduction ES ⇄ FR ⇄ EN</li>
-      <li>Révision et correction</li>
-      <li>Localisation & communication interculturelle</li>
-    </ul>
-  </section>
+<section id="competences" class="section">
+  <h2>Compétences</h2>
+  <p class="sub">Compétences techniques</p>
+  <ul class="check">
+    <li>Traduction générale et spécialisée (ES ⇄ FR ⇄ EN)</li>
+    <li>Révision, correction orthotypographique et stylistique</li>
+    <li>Adaptation culturelle et localisation de contenus</li>
+    <li>Sous-titrage et traduction audiovisuelle</li>
+    <li>Post-édition de traduction automatique (TAO)</li>
+    <li>Création et gestion de mémoires de traduction</li>
+    <li>Maîtrise des outils de TAO (Trados, MemoQ, Wordfast, etc.)</li>
+  </ul>
+</section>
 
   <!-- IMPORTANCE -->
   <section id="importance" class="section">
